@@ -7,8 +7,8 @@ This repository implements our fouling localization method.
 └── empirical_data_evaluation/
     ├── data/
     │   └── model_name.pth 
-    │   └── clean_pipe_measurement.tsv (will be available upon request)  
-    │   └── fouled_pipe_measurement.tsv (will be available upon request)          
+    │   └── clean_pipe_measurement.tsv <ins>(will be available upon request)</ins>  
+    │   └── fouled_pipe_measurement.tsv <ins>(will be available upon request)</ins>          
     ├── outputs/
     ├── define_model.py
     ├── fouling_localization.py
